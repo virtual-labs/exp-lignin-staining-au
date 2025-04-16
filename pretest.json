@@ -1,0 +1,49 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Lignin is a polymer of --------",
+      "answers": {
+        "a": "Lipids",
+        "b": "Amino acids",
+        "c": "Glucose molecules",
+        "d": "Polypropylene phenolics"
+      },
+ 
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. The chemical that strengthens the cell walls of plants:",
+      "answers": {
+        "a": " Cellulose",
+        "b": "Lignin",
+        "c": "Chitin",
+        "d": "Pectin"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. Lignin is the most abundant organic material after cellulose.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
+	 
+	 
+
+ 	 
+
