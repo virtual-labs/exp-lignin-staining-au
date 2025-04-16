@@ -2,26 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. ",
+      "question": "1. Which of the following is used for lignin staining?",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Phloroglucinol",
+        "b": "Crystal violet",
+        "c": "Methylene blue",
+        "d": "Safranin"
       },
  
       "correctAnswer": "a",
       "difficulty": "beginner"
     },   
 
+    	 
+  	 
+ 	 
 
     {
-      "question": "2. ",
+      "question": "2. An enzyme which can degrade lignin is:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Ligase",
+        "b": "Ligninase",
+        "c": "Cellulase",
+        "d": "Pectinase"
       },
       
       "correctAnswer": "b",
@@ -30,15 +33,15 @@
 
     
     {
-      "question": "3. ",
+      "question": "3. The chemical that strengthens the cell walls of plants:",
       "answers": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": " Cellulose",
+        "b": "Lignin",
+        "c": "Chitin",
+        "d": "Pectin"
       },
-     
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
